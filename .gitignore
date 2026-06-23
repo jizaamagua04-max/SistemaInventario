@@ -1,0 +1,10 @@
+uploads/*
+!uploads/.gitkeep
+
+*.log
+*.zip
+*.rar
+.env
+.DS_Store
+Thumbs.db
+.vscode/
